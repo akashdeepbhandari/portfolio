@@ -1,0 +1,57 @@
+/*****************************
+        Index page
+******************************/
+@media only screen and (max-width: 500px){
+    #nav-bg a{
+        font-size: 22px;
+        margin-left: 5vw;
+    }
+    .social-nav-icons{
+        width: 100%;
+        padding: 3vh 0vh 0vh 0vh;
+        margin: 4vh 0vh 2vh 0vh;
+        border-top: 3px solid #DCDCDC;
+    }
+    .about-myself-content{
+        text-align: center;
+        margin-bottom: 5vh;
+    }
+    .about-myself-resp{
+        margin-top: 0vh;
+    }
+    .project-imgs img{
+        height: 13vh;
+    }
+    .project-imgs{
+        margin-bottom: 3vh;
+        border: 5px solid #DCDCDC;
+    }
+    .project-softwares img{
+        height: 20vh;
+        width: auto;
+    }
+    .project-three-imgs{
+        margin-top: 0vh;
+    }
+    .last-img-bottom{
+        margin-top: 2vh;
+    }
+
+    .card i{
+        font-size: 14vw;
+    }
+    .card{
+        margin: 5vw 10vw;
+    }
+}
+/*****************************
+        About page
+******************************/
+@media only screen and (max-width: 500px){
+    .review-cards{
+        padding: 1vw 10vw;
+    }
+    .contact-content{
+        flex-direction: column;
+    }
+}
