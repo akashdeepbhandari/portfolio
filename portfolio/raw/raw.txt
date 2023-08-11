@@ -1,2 +1,0 @@
-font link(Segoe UI) :-
-https://www.cufonfonts.com/font/segoe-ui-4#google_vignette
